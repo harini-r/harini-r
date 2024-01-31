@@ -1,4 +1,4 @@
-# Hello World! I'm Harini Ravichandran
+# Hey!! I'm Harini Ravichandran
 
 <img align="right" width="270" height="290" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
